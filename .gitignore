@@ -1,2 +1,5 @@
 #local virtual environment
 md3/
+
+# file for config of production/dev environment
+manage.py
